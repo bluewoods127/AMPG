@@ -1,4 +1,4 @@
-This is code for paper Provable policy gradient methods for average-reward Markov potential games
+This is code for paper Provable Policy Gradient Methods for Average-Reward Markov Potential Games
 
 oracle.py is for appendix A.1
 
